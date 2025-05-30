@@ -1,0 +1,5 @@
+google-adk
+chromadb
+dotenv
+PyMuPDF # fitz is the import name for PyMuPDF
+openai # For embeddings, if OpenAIEmbeddingFunction is used 
